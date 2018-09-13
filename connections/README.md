@@ -1,7 +1,7 @@
 # Nearby Connections
 
 [Nearby Connections](https://developers.google.com/nearby/connections/overview)
-is a peer-to-peer networking API that allows apps to easily discover,
+is a peer-to-peer networkings API that allows apps to easily discover,
 connect to, and exchange data with nearby devices in real-time, regardless
 of network connectivity.
 
