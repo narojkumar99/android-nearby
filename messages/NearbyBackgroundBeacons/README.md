@@ -1,6 +1,6 @@
 # Google APIs for Mobile: Quickstarts
 
-Demonstrates use of long-lived background subscription with the
+Demonstrates use of long-lived background subscriptions with the
 [Nearby.Messages API](https://developers.google.com/nearby/) to scan for
 beacons using Bluetooth Low Energy (BLE).
 
